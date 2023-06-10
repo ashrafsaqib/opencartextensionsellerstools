@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "Opencart Seller Management Tools",
+    "version": "1.0",
+    "permissions": [
+      "scripting",
+      "activeTab",
+      "webNavigation",
+      "tabs",
+      "notifications"
+    ],
+    "host_permissions": ["https://*/*"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {}
+  }
