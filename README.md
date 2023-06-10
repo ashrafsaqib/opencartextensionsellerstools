@@ -11,4 +11,4 @@ Cicking this Chrome Extension will Open all the extensions in new tabs in Edit M
 
 ###Watch In action 
 
-![Alt Text][demo1.gif]
+![Demo Of Opencart Seller Tool](demo1.gif)
