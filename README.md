@@ -11,4 +11,4 @@ Cicking this Chrome Extension will Open all the extensions in new tabs in Edit M
 
 ###Watch In action 
 
-![Alt Text]([images/example.gif](http://g.recordit.co/4JaCRojb86.gif))
+![Alt Text][demo1.gif]
